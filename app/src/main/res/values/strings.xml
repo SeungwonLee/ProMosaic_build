@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">专业打码</string>
+    <string name="load">load</string>
+    <string name="clear">clear</string>
+    <string name="erase">erase</string>
+    <string name="save">save</string>
+    <string name="about">about</string>
+    <string name="finger_mode">finger_mode</string>
+    <string name="mode_path">mode_path</string>
+    <string name="mode_grid">mode_grid</string>
+    <string name="effect">effect</string>
+    <string name="effect_grid">effect_grid</string>
+    <string name="effect_blur">effect_blur</string>
+    <string name="effect_color">effect_color</string>
+    <string name="choose_image">choose_image</string>
+    <string name="email">Email</string>
+    <string name="qq">QQ: 752481163</string>
+    <string name="github">Github</string>
+
+</resources>
